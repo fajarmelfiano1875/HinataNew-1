@@ -6,12 +6,12 @@ import moment from 'moment-timezone'
 
 /**Oᴡɴᴇʀ number**/
 global.owner = [
-  ['62895347198105', '️Oᴡɴᴇʀ Sky-MD', true]
+  ['6285748839210', '️Oᴡɴᴇʀ MT-BotzMD', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
-global.mods = ['62895347198105'] // Want some help?
-global.prems = ['62895347198105'] // Premium user has unlimited limit
-global.girlfren = ['62895347198105'] // Your gf/pacar
+global.mods = ['6285748839210'] // Want some help?
+global.prems = ['6285748839210'] // Premium user has unlimited limit
+global.girlfren = ['6285748839210'] // Your gf/pacar
 
 //Api website
 global.APIs = { // API Prefix
@@ -63,15 +63,15 @@ let keyalpha = api[Math.floor(Math.random() * api.length)]
 global.apikeys = keyalpha
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6289636219593'
-global.nomorown = '62895347198105'
-global.namebot = '↻Sky-𝕸𝕯'
-global.nameown = 'ARIF XZ ✰'
+global.nomorbot = '6281939268418'
+global.nomorown = '6285748839210'
+global.namebot = '↻MT-MD'
+global.nameown = 'FajarM ✰'
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 Sky-𝕸𝕯 あ⁩ 」' //Main Watermark
+global.wm = '                「 MT-MD あ⁩ 」' //Main Watermark
 global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘օառɛʀ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ ↻SKY-𝕸𝕯'
+global.wm3 = '⫹⫺ ↻MT-MD'
 global.botdate = `⫹⫺ Date :  ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${moment.tz('Asia/Jakarta').format('HH:mm:ss')}`
 global.titlebot = `⫹⫺ Time Sever : ${moment.tz('Asia/Jakarta').format('HH:mm:ss')}\n⫹⫺ Date Server :  ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}`
